@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .daddy{
+
+  }
+.daddy h1{
+
+}
+
+.nre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   margin: 10px 0px;
+}
+
+  .fff{
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    height: 30px;
+    background-color: white;
+    margin: 10px 0;
+   width: 90%;
+    padding-left: 10px;
+
+   
+
+
+  }
+
+  .lolo{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      
+  }
+  .lll{
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      width: 80%;
+  }
+
+.daddy h3 {
+    margin: 10px 0px;
+}
+  .love{
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      flex-direction: column;
+      width: 100%;
+
+     
+      
+
+  }
+
+  .lover{
+      padding: 8px 30px;
+      background-color: blueviolet;
+      color: aliceblue;
+      border-radius: 10px;
+      border: 1px solid black;
+      margin: 5px 0px;
+
+
+
+      
+  }
+
+  .lovers{
+    padding: 8px 30px;
+      background-color: blueviolet;
+      color: aliceblue;
+      border-radius: 10px;
+      border: 1px solid black;
+      margin-top: 5px;
+
+
+  }
+  .popo{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 85%;
+  }
+  .lover:hover{
+    padding: 10px 35px;
+    background-color: rgb(105, 85, 123);
+    color: aliceblue;
+    border-radius: 10px;
+    border: 1px solid black;
+  }
+
+  .mygo{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+  }
+
+  .mtt{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+
+  }
+
+  .oiuy{
+      width: 100%;
+      
+     
+  }
+
+  .imhhh{
+      width: 100%;
+      height: 100%;
+
+  }
